@@ -1,0 +1,1 @@
+cronicle-plugin-obs-studio
